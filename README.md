@@ -7,7 +7,7 @@ Main working repo for Ethics in CS -- Fall 2022
   - real-time chat during live sessions ( __Use instead of zoomchat!__ )
   - asynchronous communication between sessions
   - Last year's cohort may offer support here...
-- syllabus: <https://github.com/hunter-teacher-cert/>
+- syllabus: <https://github.com/hunter-teacher-cert/csci77800-fall2022/blob/main/syllabus.md>
 
 
 * * *
