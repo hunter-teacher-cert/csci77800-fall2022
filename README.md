@@ -42,11 +42,9 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ### Week 1
 #### Sync
-### Async
-~~~~~~~~~~~~~~~~~~~~~~~~
 -tk
-~~~~~~~~~~~~~~~~~~~~~~~~
-
+#### Async
+-tk
 
 
 ##### Topic
