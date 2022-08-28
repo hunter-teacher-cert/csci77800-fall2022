@@ -43,6 +43,133 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 1
 #### Sync
 -tk
+
+#### Async
+-tk
+
+---
+
+### Week 2
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 3
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
+#### Async
+-tk
+
+---
+
+### Week 
+#### Sync
+-tk
+
 #### Async
 -tk
 
