@@ -45,7 +45,7 @@ There is no required text for this course. Readings will be assigned from a vari
 - Class participation (Sync + Async): 20%
 
 
-### Course Content
+### Course Content and Anticipated Sequence
 
 1. What comprises Ethical CS?
 1. Python
