@@ -47,7 +47,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 #### Async
 -tk
 
----
+- - -
 
 ### Week 2
 #### Sync
@@ -67,7 +67,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 4
 #### Sync
 -tk
 
@@ -76,7 +76,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 5
 #### Sync
 -tk
 
@@ -85,7 +85,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 6
 #### Sync
 -tk
 
@@ -94,7 +94,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 7
 #### Sync
 -tk
 
@@ -103,7 +103,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 8
 #### Sync
 -tk
 
@@ -112,7 +112,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 9
 #### Sync
 -tk
 
@@ -121,7 +121,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 10
 #### Sync
 -tk
 
@@ -130,7 +130,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 11
 #### Sync
 -tk
 
@@ -139,7 +139,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 12
 #### Sync
 -tk
 
@@ -148,7 +148,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 13
 #### Sync
 -tk
 
@@ -157,7 +157,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
+### Week 14
 #### Sync
 -tk
 
@@ -166,12 +166,6 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ---
 
-### Week 
-#### Sync
--tk
-
-#### Async
--tk
 
 
 ##### Topic
