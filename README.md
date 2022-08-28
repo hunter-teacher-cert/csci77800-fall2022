@@ -38,7 +38,9 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 * * * 
 
-#### Week 1
+## Weekly Progression
+
+### Week 1
 ##### Sync
 ###### Topic
 - What comprises Ethical CS?
@@ -55,6 +57,10 @@ At the beginning of each session, a designated duo will present on a topic of in
 - step into others' shoes
 - play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions
 ##### Async
+### Async
+~~~~~~~~~~~~~~~~~~~~~~~~
+-tk
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ### Week 2
