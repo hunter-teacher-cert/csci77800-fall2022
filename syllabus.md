@@ -17,12 +17,6 @@ Ethical concerns are frequently ignored in technical fields, but as a society we
 - Synchronous: Thursday 5:00-6:15pm
 - Asynchronous: expected minimum 1h15m contribution to appropriate slack channel(s)
 
-## Grading
- - 30% : Demonstration of an understanding of CS teaching methods through class discussion, breakout rooms, small presentations.
- - 30% : Use of effective methods in delivery of Topics project
- - 20% : Final portfolio
- - 20% : participation
-
 ## Expected Learning Outcomes
 #### By the end of this course, students will be able to
 1. Create programs and computer-based systems that minimize negative ethical factors such as bias and unintended consequences.
