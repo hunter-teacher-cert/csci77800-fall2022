@@ -42,7 +42,19 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ### Week 1
 #### Sync
--tk
+##### What comprises Ethical CS?
+##### Course overview
+- syllabus
+- grading
+- Github Assignment Repo setup
+- Weekly Ethicacy
+- How async will work (vs assignments and homework)
+##### Ground rules for discussions. We will grow/learn the most if...
+- Respect positions.
+- Separate person (and their worth) from their opinions/stance.
+- Listen for understanding.
+- Step into others' shoes.
+- Play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
 
 #### Async
 -tk
@@ -168,21 +180,6 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 
 
-##### Topic
-- What comprises Ethical CS?
-##### Course overview
-- syllabus
-- grading
-- Github Assignment Repo setup
-- Weekly Ethicacy
-- How async will work (vs assignments and homework)
-###### Ground rules for discussions. We will grow/learn the most if...
-- respect positions
-- separate person (and their worth) from their opinions/stance
-- listen for understanding
-- step into others' shoes
-- play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions
-##### Async
 
 
 ### Week 2
