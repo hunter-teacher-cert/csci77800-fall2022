@@ -42,19 +42,19 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ### Week 1
 #### Sync
-##### What comprises Ethical CS?
-##### Course overview
-- syllabus
-- grading
-- Github Assignment Repo setup
-- Weekly Ethicacy
-- How async will work (vs assignments and homework)
-##### Ground rules for discussions. We will grow/learn the most if...
-- Respect positions.
-- Separate person (and their worth) from their opinions/stance.
-- Listen for understanding.
-- Step into others' shoes.
-- Play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
+* What comprises Ethical CS?
+* Course overview
+  - syllabus
+  - grading
+  - Github Assignment Repo setup
+  - Weekly Ethicacy
+  - How async will work (vs assignments and homework)
+* Ground rules for discussions. We will grow/learn the most if...
+  - Respect positions.
+  - Separate person (and their worth) from their opinions/stance.
+  - Listen for understanding.
+  - Step into others' shoes.
+  - Play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
 
 #### Async
 -tk
@@ -63,9 +63,9 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ### Week 2
 #### Sync
-##### Ethicacy
-##### Share Full Ethicacy Calendar
-##### Python
+* Ethicacy
+* Share Full Ethicacy Calendar
+* Python
 #### Async
 - set up work repos
 - Python assignment
@@ -74,8 +74,12 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 3
+##### Topic: Data Privacy
 #### Sync
--tk
+* Ethicacy
+* Breakouts : admin policy / tooling choice
+* Breakouts : data privacy
+
 
 #### Async
 -tk
@@ -83,8 +87,11 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 4
+##### Topic: REGEX
 #### Sync
--tk
+* REGEX
+  - What are regular expressions and how can we use them in Python
+
 
 #### Async
 -tk
@@ -92,6 +99,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 5
+##### Topic: REGEX
 #### Sync
 -tk
 
@@ -101,6 +109,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 6
+##### Topic: Build a web page
 #### Sync
 -tk
 
@@ -110,6 +119,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 7
+##### Topic: web and accessibility
 #### Sync
 -tk
 
@@ -119,8 +129,17 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 8
+##### Topic: Start airplane seating assignment
 #### Sync
--tk
+* Review the `plane_seating` code
+* Breakouts - add the `seat_economy` parts
+* Groups
+  -tk
+* Analysis
+ - look at code
+ - ethical issues
+* Articles
+  -tk
 
 #### Async
 -tk
@@ -128,8 +147,11 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 9
+##### Topic: Continue airplane seating
 #### Sync
--tk
+- ethicacy
+- discussion of better algorithms - together
+- lab sync and async - implement new algorithm
 
 #### Async
 -tk
@@ -137,8 +159,12 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 10
+##### Topic: Privacy and the web
 #### Sync
--tk
+* What information are we sharing when we access the web?
+  - breakout
+  - list
+* Reading
 
 #### Async
 -tk
@@ -146,8 +172,12 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 11
+##### Topic: Unforeseen consequences
 #### Sync
--tk
+* plane demo
+* survey results analysis
+  - recommendation engines: strengths, weaknesses, obvious and otherwise
+* regulation
 
 #### Async
 -tk
@@ -155,6 +185,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 12
+##### Topic: 
 #### Sync
 -tk
 
@@ -164,6 +195,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 13
+##### Topic: Ethicacy and final presentations
 #### Sync
 -tk
 
@@ -173,6 +205,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ---
 
 ### Week 14
+##### Topic: Ethicacy and final presentations
 #### Sync
 -tk
 
@@ -188,16 +221,16 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ### Week 3 Data Privacy
 #### Sync
-##### Ethicacy
-##### Breakouts : admin policy / tooling choice
-##### Breakouts : data privacy
+* Ethicacy
+* Breakouts : admin policy / tooling choice
+* Breakouts : data privacy
 
 
 ### Week 4 REGEX
 #### Sync
 - ethicacy
 - debrief from last week's lesson
-##### REGEX
+* REGEX
 What are regular expressions and how can we use them in Python
 #### Async
 -tk
