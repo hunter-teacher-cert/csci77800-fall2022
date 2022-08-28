@@ -45,155 +45,23 @@ There is no required text for this course. Readings will be assigned from a vari
 - Class participation (Sync + Async): 20%
 
 
-### Course Content and Organization:
+### Course Content
 
-#### Week 1
-##### Sync
-###### Topic
-- What comprises Ethical CS?
-###### Course overview
-- syllabus
-- grading
-- Github Assignment Repo setup
-- Weekly Ethicacy
-- How async will work (vs assignments and homework)
-###### Ground rules for discussions. We will grow/learn the most if...
-- respect positions
-- separate person (and their worth) from their opinions/stance
-- listen for understanding
-- step into others' shoes
-- play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions
-##### Async
+1. What comprises Ethical CS?
+1. Python
+1. Data privacy
+1. Pattern matching search and analysis tools
+1. Web content generation, presentation, delivery
+1. Software design and implementation: pros, cons, effects & side effects
+1. WWW content accessibility
+1. Applications demos, discussions, reviews
+1. Regulation
+1. Private data exposure vis-a-vis online activity
+1. Ethics in the tech workplace
+1. Final project presentations
 
 
-### Week 2
-##### Sync
-##### Ethicacy
-###### Share Full Ethicacy Calendar
-###### Python
-##### Async
-- set up work repos
-- Python assignment
-
-### Week 3 Data Privacy
-#### Sync
-##### Ethicacy
-##### Breakouts : admin policy / tooling choice
-##### Breakouts : data privacy
-
-
-### Week 4 REGEX
-#### Sync
-- ethicacy
-- debrief from last week's lesson
-##### REGEX
-What are regular expressions and how can we use them in Python
-#### Async
--tk
-
-
-### Week 5 regex part 2
-#### Sync
-##### Ethicacy
-##### Regex
--tk
-#### Async
--tk
-
-
-### week 6 html build a web page
--tk
-
-
-* Week 8 - start airplane seating assignment
-### Sync
-#### Ethicacy
-#### Review the `plane_seating` code
-#### Breakouts - add the `seat_economy` parts
-##### Groups
--tk
-#### Analysis
-- look at code
-- ethical issues
-- Articles
-  -tk
-### Async
-~~~~~~~~~~~~~~~~~~~~~~~~
--tk
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-### Week 7 web and accessibility
-#### Ethicacy
-#### Sync
-#### Async
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
--tk
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-### Week 8 - start airplane seating assignment
-#### Sync
-##### Ethicacy
-##### Review the plane_seating code
-##### Breakouts - add the seat_economy parts
-
-#### Async
-~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-### Week 9 - Airplane seating continued
-- ethicacy
-- discussion of better algorithms - together
-- lab sync and async - implement new algorithm
-
-### Async
-~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Week 11 - unseen consequences
-### Sync
-#### Ethicacy
-#### plane demo
-#### survey results analysis
-- recommendation engines: strengths, weaknesses, obvious and otherwise
-
-
-#### Regulation
-### Async
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-### Week 10 - privacy and the web (maybe move this before the airline unit)
-#### Sync
-##### Ethicacy
-##### lesson
-- What information are we sharing when we access the web (breakout
-  then list)?
-
-##### Reading:
- - tk
-
-#### Async
-tk
-
-### week 12 - Laurence Berland
-- Ethics in the tech workplaces
-- Ethicacy
-
-
-### Week 13 Ethicacy and Final Presentations
-
-### Week 14 Ethicacy and Final Presentations
-
-
-
-
-
----
+* * * 
 
 ## Academic Integrity Statement
 
