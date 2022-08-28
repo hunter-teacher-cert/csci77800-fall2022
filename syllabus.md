@@ -14,19 +14,17 @@ Ethical concerns are frequently ignored in technical fields, but as a society we
 
 
 ## Schedule
-
-Thursdays 5:00-6:15pm
-
+- Synchronous: Thursday 5:00-6:15pm
+- Asynchronous: expected minimum 1h15m contribution to appropriate slack channel(s)
 
 ## Grading
-
  - 30% : Demonstration of an understanding of CS teaching methods through class discussion, breakout rooms, small presentations.
  - 30% : Use of effective methods in delivery of Topics project
  - 20% : Final portfolio
  - 20% : participation
 
-
-## By the end of this course, students will be able to
+## Expected Learning Outcomes
+#### By the end of this course, students will be able to
 1. Create programs and computer-based systems that minimize negative ethical factors such as bias and unintended consequences.
 1. Create programs and computer-based systems that maximize factors including accessiblity, equity, and diversity.
 1. Analyze existing computer systems to determine where factors such as bias, unintended consequences and other ethical concerns exist.
