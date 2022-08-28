@@ -1,6 +1,8 @@
 # csci77800-fall2022
 Main working repo for Ethics in CS -- Fall 2022
 
+# CSCI 77800 - Ethics and Computer Science
+
 ## Discussion
 - standing zoom session: <https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09>
 - slack: <https://hunterteacher-vyz6159.slack.com/>
@@ -35,55 +37,6 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 
 * * * 
-
-# CSCI 77800 - Ethics and Computer Science
-
-#### Term: Fall Semester 2022
-#### Professors: Mike Zamansky, Topher Mykolyk
-#### Office Hours: TBA and by appointment
-#### Email: mz631@hunter.cuny.edu, cm5950@hunter.cuny.edu
-
-
-## Course Description
-
-*"Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should." - Jurassic Park, Michael Crichton*
-
-Ethical concerns are frequently ignored in technical fields, but as a society we are discovering their immense importance. Algorithms can have unintended affects due to hidden bias, security and privacy can be affected negatively when decisions are made for technical merit or user convenience. Social networks have resulted in issues ranging from fake news to echo chambers and more. In this course we will explore ethical issues in computer science through a combination of programming assignments, case studies and discussions of current events.
-
-
-## Schedule
-- Synchronous: Thursday 5:00-6:15pm
-- Asynchronous: expected minimum 1h15m contribution to appropriate slack channel(s)
-
-## Grading
- - 30% : Demonstration of an understanding of CS teaching methods through class discussion, breakout rooms, small presentations.
- - 30% : Use of effective methods in delivery of Topics project
- - 20% : Final portfolio
- - 20% : participation
-
-## Expected Learning Outcomes
-#### By the end of this course, students will be able to
-1. Create programs and computer-based systems that minimize negative ethical factors such as bias and unintended consequences.
-1. Create programs and computer-based systems that maximize factors including accessiblity, equity, and diversity.
-1. Analyze existing computer systems to determine where factors such as bias, unintended consequences and other ethical concerns exist.
-1. Understand how human factors can influence otherwise deterministic technical processes.
-
-
-### Texts
-
-There is no required text for this course. Readings will be assigned from a variety of sources, as outlined in the syllabus.
-
-
-### Evaluation
-
-- Final project/paper: 25%
-- Programming assignments: 20%
-- Presentations / accompanying papers / other assignments: 25%
-- Weekly Ethicacy: 10%
-- Class participation (Sync + Async): 20%
-
-
-### Course Content and Organization:
 
 #### Week 1
 ##### Sync
