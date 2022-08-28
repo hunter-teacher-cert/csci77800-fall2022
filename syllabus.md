@@ -1,12 +1,12 @@
 # CSCI 77800 - Ethics and Computer Science
 
-### Term: Fall Semester 2022
-### Professors: Mike Zamansky & Topher Mykolyk
-### Office Hours: TBA and by appointment
-### Email: mz631@hunter.cuny.edu, cm5950@hunter.cuny.edu
+#### Term: Fall Semester 2022
+#### Professors: Mike Zamansky & Topher Mykolyk
+#### Office Hours: TBA and by appointment
+#### Email: mz631@hunter.cuny.edu, cm5950@hunter.cuny.edu
 
 
-# Course Description
+## Course Description
 
 *"Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should." - Jurassic Park, Michael Crichton*
 
