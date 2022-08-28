@@ -101,6 +101,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 5
 ##### Topic: REGEX
 #### Sync
+* Ethicacy
 -tk
 
 #### Async
@@ -111,6 +112,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 6
 ##### Topic: Build a web page
 #### Sync
+* Ethicacy
 -tk
 
 #### Async
@@ -121,6 +123,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 7
 ##### Topic: web and accessibility
 #### Sync
+* Ethicacy
 -tk
 
 #### Async
@@ -131,6 +134,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 8
 ##### Topic: Start airplane seating assignment
 #### Sync
+* Ethicacy
 * Review the `plane_seating` code
 * Breakouts - add the `seat_economy` parts
 * Groups
@@ -149,9 +153,9 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 9
 ##### Topic: Continue airplane seating
 #### Sync
-- ethicacy
-- discussion of better algorithms - together
-- lab sync and async - implement new algorithm
+* Ethicacy
+* discussion of better algorithms - together
+* lab (sync and async): implement new algorithm
 
 #### Async
 -tk
@@ -161,6 +165,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 10
 ##### Topic: Privacy and the web
 #### Sync
+* Ethicacy
 * What information are we sharing when we access the web?
   - breakout
   - list
@@ -174,6 +179,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 11
 ##### Topic: Unforeseen consequences
 #### Sync
+* Ethicacy
 * plane demo
 * survey results analysis
   - recommendation engines: strengths, weaknesses, obvious and otherwise
@@ -187,6 +193,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 12
 ##### Topic: 
 #### Sync
+* Ethicacy
 -tk
 
 #### Async
@@ -197,6 +204,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 13
 ##### Topic: Ethicacy and final presentations
 #### Sync
+* Ethicacy
 -tk
 
 #### Async
@@ -207,6 +215,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 14
 ##### Topic: Ethicacy and final presentations
 #### Sync
+* Ethicacy
 -tk
 
 #### Async
