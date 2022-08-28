@@ -25,7 +25,7 @@ At the beginning of each session, a designated duo will present on a topic of in
   - single page
   - add to this folder in git repo via pull request
 - Other supporting files may be added to ethicacy folder. Each partners' folder must contain all files.
-  
+
 ### Presentation
 - _GOAL: Each partner takes a side (of an at-least-2-sided issue), and audience gets to hear each argument._
   - ~7-10min
@@ -41,10 +41,17 @@ At the beginning of each session, a designated duo will present on a topic of in
 ## Weekly Progression
 
 ### Week 1
-##### Sync
-###### Topic
+#### Sync
+### Async
+~~~~~~~~~~~~~~~~~~~~~~~~
+-tk
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+##### Topic
 - What comprises Ethical CS?
-###### Course overview
+##### Course overview
 - syllabus
 - grading
 - Github Assignment Repo setup
@@ -57,10 +64,6 @@ At the beginning of each session, a designated duo will present on a topic of in
 - step into others' shoes
 - play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions
 ##### Async
-### Async
-~~~~~~~~~~~~~~~~~~~~~~~~
--tk
-~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ### Week 2
