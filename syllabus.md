@@ -1,7 +1,7 @@
 # CSCI 77800 - Ethics and Computer Science
 
 #### Term: Fall Semester 2022
-#### Professors: Mike Zamansky & Topher Mykolyk
+#### Professors: Mike Zamansky, Topher Mykolyk
 #### Office Hours: TBA and by appointment
 #### Email: mz631@hunter.cuny.edu, cm5950@hunter.cuny.edu
 
@@ -50,7 +50,7 @@ There is no required text for this course. Readings will be assigned from a vari
 #### Week 1
 ##### Sync
 ###### Topic
-- what comprises Ethical CS - can share web references?
+- What comprises Ethical CS?
 ###### Course overview
 - syllabus
 - grading
@@ -62,8 +62,9 @@ There is no required text for this course. Readings will be assigned from a vari
 - separate person (and their worth) from their opinions/stance
 - listen for understanding
 - step into others' shoes
-- play "Devil's advocate" to suss out unfamilar or
-  distasteful/problematic positions
+- play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions
+##### Async
+
 
 ### Week 2
 ##### Sync
