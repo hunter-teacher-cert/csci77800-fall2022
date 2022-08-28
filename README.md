@@ -63,10 +63,13 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ### Week 2
 #### Sync
--tk
-
+##### Ethicacy
+##### Share Full Ethicacy Calendar
+##### Python
 #### Async
--tk
+- set up work repos
+- Python assignment
+
 
 ---
 
@@ -182,14 +185,6 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 
 
-### Week 2
-##### Sync
-##### Ethicacy
-###### Share Full Ethicacy Calendar
-###### Python
-##### Async
-- set up work repos
-- Python assignment
 
 ### Week 3 Data Privacy
 #### Sync
