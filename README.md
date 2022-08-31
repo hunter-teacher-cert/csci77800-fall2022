@@ -35,8 +35,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ### Presentation Order / Teams
 
-```
-```
+CSV: https://github.com/hunter-teacher-cert/csci77800-fall2022/blob/main/duos_ethicacy.csv
 
 * * * 
 
