@@ -49,12 +49,12 @@ At the beginning of each session, a designated duo will present on a topic of in
   - Github Assignment Repo setup
   - Weekly Ethicacy
   - How async will work (vs assignments and homework)
-* Ground rules for discussions. We will grow/learn the most if...
-  - Respect positions.
-  - Separate person (and their worth) from their opinions/stance.
-  - Listen for understanding.
-  - Step into others' shoes.
-  - Play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
+* **Ground rules for discussions:** _We will grow/learn the most if we..._
+  - respect one another's positions.
+  - separate person (and their worth) from their opinions/stance.
+  - listen for understanding.
+  - step into others' shoes.
+  - sometimes play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
 
 #### Async
 * -tk
