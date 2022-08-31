@@ -57,7 +57,7 @@ At the beginning of each session, a designated duo will present on a topic of in
   - Play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
 
 #### Async
--tk
+* -tk
 
 - - -
 
@@ -82,19 +82,20 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 
 #### Async
--tk
+* -tk
 
 ---
 
 ### Week 4
 ##### Topic: REGEX
 #### Sync
+* Ethicacy
 * REGEX
   - What are regular expressions and how can we use them in Python
 
 
 #### Async
--tk
+* -tk
 
 ---
 
@@ -102,10 +103,10 @@ At the beginning of each session, a designated duo will present on a topic of in
 ##### Topic: REGEX
 #### Sync
 * Ethicacy
--tk
+* -tk
 
 #### Async
--tk
+* -tk
 
 ---
 
@@ -113,10 +114,10 @@ At the beginning of each session, a designated duo will present on a topic of in
 ##### Topic: Build a web page
 #### Sync
 * Ethicacy
--tk
+* -tk
 
 #### Async
--tk
+* -tk
 
 ---
 
@@ -124,10 +125,10 @@ At the beginning of each session, a designated duo will present on a topic of in
 ##### Topic: web and accessibility
 #### Sync
 * Ethicacy
--tk
+* -tk
 
 #### Async
--tk
+* -tk
 
 ---
 
@@ -146,7 +147,7 @@ At the beginning of each session, a designated duo will present on a topic of in
   -tk
 
 #### Async
--tk
+* -tk
 
 ---
 
@@ -158,7 +159,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 * lab (sync and async): implement new algorithm
 
 #### Async
--tk
+* -tk
 
 ---
 
@@ -172,7 +173,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 * Reading
 
 #### Async
--tk
+* -tk
 
 ---
 
@@ -186,7 +187,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 * regulation
 
 #### Async
--tk
+* -tk
 
 ---
 
@@ -194,10 +195,10 @@ At the beginning of each session, a designated duo will present on a topic of in
 ##### Topic: 
 #### Sync
 * Ethicacy
--tk
+* -tk
 
 #### Async
--tk
+* -tk
 
 ---
 
@@ -205,10 +206,10 @@ At the beginning of each session, a designated duo will present on a topic of in
 ##### Topic: Ethicacy and final presentations
 #### Sync
 * Ethicacy
--tk
+* -tk
 
 #### Async
--tk
+* -tk
 
 ---
 
@@ -216,136 +217,12 @@ At the beginning of each session, a designated duo will present on a topic of in
 ##### Topic: Ethicacy and final presentations
 #### Sync
 * Ethicacy
--tk
+* -tk
 
 #### Async
--tk
+* -tk
 
 ---
-
-
-
-
-
-
-### Week 3 Data Privacy
-#### Sync
-* Ethicacy
-* Breakouts : admin policy / tooling choice
-* Breakouts : data privacy
-
-
-### Week 4 REGEX
-#### Sync
-- ethicacy
-- debrief from last week's lesson
-* REGEX
-What are regular expressions and how can we use them in Python
-#### Async
--tk
-
-
-### Week 5 regex part 2
-#### Sync
-##### Ethicacy
-##### Regex
--tk
-#### Async
--tk
-
-
-### week 6 html build a web page
--tk
-
-
-* Week 8 - start airplane seating assignment
-### Sync
-#### Ethicacy
-#### Review the `plane_seating` code
-#### Breakouts - add the `seat_economy` parts
-##### Groups
--tk
-#### Analysis
-- look at code
-- ethical issues
-- Articles
-  -tk
-### Async
-~~~~~~~~~~~~~~~~~~~~~~~~
--tk
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-### Week 7 web and accessibility
-#### Ethicacy
-#### Sync
-#### Async
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
--tk
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-### Week 8 - start airplane seating assignment
-#### Sync
-##### Ethicacy
-##### Review the plane_seating code
-##### Breakouts - add the seat_economy parts
-
-#### Async
-~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-### Week 9 - Airplane seating continued
-- ethicacy
-- discussion of better algorithms - together
-- lab sync and async - implement new algorithm
-
-### Async
-~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Week 11 - unseen consequences
-### Sync
-#### Ethicacy
-#### plane demo
-#### survey results analysis
-- recommendation engines: strengths, weaknesses, obvious and otherwise
-
-
-#### Regulation
-### Async
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-### Week 10 - privacy and the web (maybe move this before the airline unit)
-#### Sync
-##### Ethicacy
-##### lesson
-- What information are we sharing when we access the web (breakout
-  then list)?
-
-##### Reading:
- - tk
-
-#### Async
-tk
-
-### Week 12 
-
-
-### Week 13 Ethicacy and Final Presentations
-
-### Week 14 Ethicacy and Final Presentations
-
-
-
-
-
----
-
 
 
 
