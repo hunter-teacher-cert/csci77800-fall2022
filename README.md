@@ -66,7 +66,7 @@ At the beginning of each session, a designated duo will present on a topic of in
   - sometimes play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
 
 #### Async
-* -tk
+* 
 
 - - -
 
@@ -238,3 +238,5 @@ At the beginning of each session, a designated duo will present on a topic of in
 * * *
 
 ## Our work repos
+(Dont' have one yet? Follow this link to initialize yours:  <https://classroom.github.com/a/-iW8TBoR>)
+
