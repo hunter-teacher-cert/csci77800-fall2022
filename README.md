@@ -9,7 +9,7 @@ Main working repo for Ethics and CS -- Fall 2022
   - real-time chat during live sessions (__Use instead of zoomchat!__)
   - asynchronous communication between sessions
   - prior cohort members may contribute to discussion.
-  - `#ethics` - real-time chat during live sessions and between sessions ( __Use instead of zoomchat!__)
+  - `#ethics` - real-time chat during live sessions and between sessions
   - `#ethics-async` - specifically for async assignments
   - `#ethics-Q-queue` - for lining up questions to be addressed during in-class time (instead of zoom-hand raising)
   - `#general` - everybody, including prior cohorts
