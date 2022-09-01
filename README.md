@@ -67,7 +67,7 @@ At the beginning of each session, a designated duo will present on a topic of in
   - sometimes play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
 
 #### Async
-* Review pre-reading (ThinkPython Ch.1-4) as necessary, utilize `#python-fu` channel as necessary to discuss.
+* Review pre-reading (ThinkPython Ch.1-4) and additional chapters as necessary, utilize `#python-fu` channel as necessary to discuss.
 * Bookmark Ch.9-10 for reference now and later in the term.
 * Consult your summer java codebase as necessary, and re-write in python 
   - Game of Nim
@@ -94,8 +94,7 @@ your-ethics-work-repo/py/binsearch.py
 
 ### Week 2
 #### Sync
-* Ethicacy
-* Python
+* No Sync Class
 #### Async
 - set up work repos
 - Python assignment
