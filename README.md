@@ -29,7 +29,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ### Presentation
 * _GOAL: Each partner takes a side (of an at-least-2-sided issue), and audience gets to hear each argument._
-  - ~7-10min
+  - ~3-5min
     - (shorter: topic not rich enough)
     - (longer: topic not distilled enough)
   - solicit questions/comments/concerns
