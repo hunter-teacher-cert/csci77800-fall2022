@@ -25,7 +25,6 @@ At the beginning of each session, a designated duo will present on a topic of in
   - hyperlink(s) to primary source(s) included
   - summary of issue or newsworthy development
   - single page
-  - add to this folder in git repo via pull request
 - Other supporting files may be added to ethicacy folder. Each partners' folder must contain all files.
 
 ### Presentation
@@ -37,7 +36,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 * Weekly Ethicacy will take place in two breakout rooms, at the beginning of each week's live session.
 
 ### Asynchronous Component
-* Within a week of the live session during which a Weekly Ethicacy is delivered, each participant will post to the corresponding thread in the `ethics-async` channel a response:
+* Within a week of the live session during which a Weekly Ethicacy is delivered, each participant will post to the corresponding thread in the `ethics-we` channel a response:
   - clearly indicating chosen side
   - supporting their choice with supporting documentation, by referencing personal experience, and/or by expanding upon comments from live presentation or preceding channel discussion.
 
