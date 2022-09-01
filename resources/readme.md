@@ -1,7 +1,7 @@
 # Python
 - Think Python (Downey):
-  - Text (PDF, HTML...): https://greenteapress.com/wp/think-python-2e/
   - Interactive version: https://runestone.academy/runestone/books/published/thinkcspy/index.html
+  - Text (PDF, HTML...): https://greenteapress.com/wp/think-python-2e/
 - Pythonery: 
   - Thonny, the "Goldilocks IDE": https://thonny.org/
     - Richer than IDLE
