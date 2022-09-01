@@ -4,7 +4,7 @@ Main working repo for Ethics and CS -- Fall 2022
 # CSCI 77800 - Ethics and Computer Science
 
 ## Discussion
-- standing zoom session: <https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09>
+- standing zoom session: <https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09> 
 - slack: <https://hunterteacher-vyz6159.slack.com/>
   - real-time chat during live sessions (__Use instead of zoomchat!__)
   - asynchronous communication between sessions
