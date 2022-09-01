@@ -12,6 +12,7 @@ Main working repo for Ethics and CS -- Fall 2022
   - `#ethics` - real-time chat during live sessions and between sessions
   - `#ethics-async` - specifically for async assignments
   - `#ethics-Q-queue` - for lining up questions to be addressed during in-class time (instead of zoom-hand raising)
+  - `#python-fu` - for troubleshooting, pro-tip sharing, shop-talking, resource sharing
   - `#general` - everybody, including prior cohorts
 - syllabus: <https://github.com/hunter-teacher-cert/csci77800-fall2022/blob/main/syllabus.md>
 
