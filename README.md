@@ -27,15 +27,23 @@ At the beginning of each session, a designated duo will present on a topic of in
 - Other supporting files may be added to ethicacy folder. Each partners' folder must contain all files.
 
 ### Presentation
-- _GOAL: Each partner takes a side (of an at-least-2-sided issue), and audience gets to hear each argument._
+* _GOAL: Each partner takes a side (of an at-least-2-sided issue), and audience gets to hear each argument._
   - ~7-10min
     - (shorter: topic not rich enough)
     - (longer: topic not distilled enough)
   - solicit questions/comments/concerns
+* Weekly Ethicacy will take place in two breakout rooms, at the beginning of each week's live session.
+
+### Asynchronous Component
+* Within a week of the live session during which a Weekly Ethicacy is delivered, each participant will post to the corresponding thread in the `ethics-async` channel a response:
+  - clearly indicating chosen side
+  - supporting their choice with supporting documentation, by referencing personal experience, and/or by expanding upon comments from live presentation or preceding channel discussion.
 
 ### Presentation Order / Teams
+* Duo 1 will present to room 1, Duo 2 will present to room2.
+* CSV of randomized pairings: https://github.com/hunter-teacher-cert/csci77800-fall2022/blob/main/duos_ethicacy.csv
+* _Participants are expected to establish communications with their partner as soon as possible, and collaborate to maximize presentation quality._
 
-CSV: https://github.com/hunter-teacher-cert/csci77800-fall2022/blob/main/duos_ethicacy.csv
 
 * * * 
 
