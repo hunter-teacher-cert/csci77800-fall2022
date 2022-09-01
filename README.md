@@ -29,7 +29,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ### Presentation
 * _GOAL: Each partner takes a side (of an at-least-2-sided issue), and audience gets to hear each argument._
-  - ~3-5min
+  - ~3-5min per side.
     - (shorter: topic not rich enough)
     - (longer: topic not distilled enough)
   - solicit questions/comments/concerns
@@ -67,6 +67,7 @@ At the beginning of each session, a designated duo will present on a topic of in
   - sometimes play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
 
 #### Async
+* Due 9/14 9:00pm 
 * Review pre-reading (ThinkPython Ch.1-4) and additional chapters as necessary, utilize `#python-fu` channel as necessary to discuss.
 * Bookmark Ch.9-10 for reference now and later in the term.
 * Consult your summer java codebase as necessary, and re-write in python 
@@ -92,7 +93,7 @@ your-ethics-work-repo/py/binsearch.py
 
 - - -
 
-### Week 2
+### Week 2 - 9/8
 #### Sync
 * No Sync Class
 #### Async
@@ -102,7 +103,7 @@ your-ethics-work-repo/py/binsearch.py
 
 ---
 
-### Week 3
+### Week 3 - 9/15
 ##### Topic: Data Privacy
 #### Sync
 * Ethicacy
