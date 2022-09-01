@@ -10,7 +10,8 @@ Main working repo for Ethics and CS -- Fall 2022
   - asynchronous communication between sessions
   - prior cohort members may contribute to discussion.
   - `#ethics` - real-time chat during live sessions and between sessions
-  - `#ethics-async` - specifically for async assignments
+  - `#ethics-async` - general async discussion area
+  - `#ethics-we` - dedicated space for Weekly Ethicacy discussion (including its async component)
   - `#ethics-Q-queue` - for lining up questions to be addressed during in-class time (instead of zoom-hand raising)
   - `#python-fu` - for troubleshooting, pro-tip sharing, shop-talking, resource sharing
   - `#general` - everybody, including prior cohorts
