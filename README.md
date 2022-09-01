@@ -74,7 +74,6 @@ At the beginning of each session, a designated duo will present on a topic of in
 ### Week 2
 #### Sync
 * Ethicacy
-* Share Full Ethicacy Calendar
 * Python
 #### Async
 - set up work repos
