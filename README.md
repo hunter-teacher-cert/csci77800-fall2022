@@ -1,5 +1,5 @@
 # csci77800-fall2022
-Main working repo for Ethics in CS -- Fall 2022
+Main working repo for Ethics and CS -- Fall 2022
 
 # CSCI 77800 - Ethics and Computer Science
 
