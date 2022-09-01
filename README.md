@@ -74,9 +74,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 * Consult your summer java codebase as necessary, and re-write in python 
   - Game of Nim
   - Game of Life
-  - Binary Search
-    - iterative version
-    - recursive version
+  - Binary Search : iterative or recursive version
 * DELIVERABLE:
 ```
 your-ethics-work-repo/py/nim.py
