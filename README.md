@@ -67,7 +67,28 @@ At the beginning of each session, a designated duo will present on a topic of in
   - sometimes play "Devil's advocate" to suss out unfamilar/distasteful/problematic positions.
 
 #### Async
-* 
+* Review pre-reading (ThinkPython Ch.1-4) as necessary, utilize `#python-fu` channel as necessary to discuss.
+* Bookmark Ch.9-10 for reference now and later in the term.
+* Consult your summer java codebase as necessary, to re-write in python 
+  - Game of Nim
+  - Game of Life
+  - Binary Search
+    - iterative version
+    - recursive version
+* DELIVERABLE:
+```
+your-ethics-work-repo/py/binsearch.py
+your-ethics-work-repo/py/life.py
+your-ethics-work-repo/py/nim.py
+```
+  - for each sourcecode file you submit, include a heading comment block in this format:
+  ```python
+  # FILENAME
+  # First Last
+  # CSCI 77800 Fall 2022
+  # collaborators: 
+  # consulted: 
+  ```
 
 - - -
 
