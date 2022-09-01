@@ -41,7 +41,7 @@ At the beginning of each session, a designated duo will present on a topic of in
 
 ### Presentation Order / Teams
 * Duo 1 will present to room 1, Duo 2 will present to room2.
-* CSV of randomized pairings: https://github.com/hunter-teacher-cert/csci77800-fall2022/blob/main/duos_ethicacy.csv
+* CSV of randomized pairings: https://github.com/hunter-teacher-cert/csci77800-fall2022/blob/main/ethicacy_duos.csv
 * _Participants are expected to establish communications with their partner as soon as possible, and collaborate to maximize presentation quality._
 
 
