@@ -110,6 +110,7 @@ your-ethics-work-repo/py/binsearch.py
 
 
 #### Async
+* Due 9/21 9:00pm
 * First look over the references on this page:
    - https://aboutmyinfo.org/identity/about
 * Next, select two services: They could be domain-specific (like an education platform); generic (say, Gmail); or could even be two competitors (like two email providers).
