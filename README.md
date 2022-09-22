@@ -129,12 +129,12 @@ your-ethics-work-repo/py/binsearch.py
 * Ethicacy Breakouts
 
 
-Room 1 presenters
+Room 1 presenters (9/22)
 -----------------
 - Ethicacy Breakout 1 - Grant-Knight	Taylor
 - Ethicacy Breakout 1 - Prado	Adam
 
-Room 1 audience
+Room 1 audience (9/22)
 ---------------
 - Ethicacy Breakout 1 - Bianchi	Joel
 - Ethicacy Breakout 1 - Boland	Latoya
@@ -163,12 +163,12 @@ Room 1 audience
 - Ethicacy Breakout 1 - driggers	adam
 
 
-Room 2 presenters
+Room 2 presenters (9/22)
 -----------------
 - Ethicacy Breakout 2 - Marra	Christine
 - Ethicacy Breakout 2 - Yearwood	Maxwell
 
-Room 2 audience
+Room 2 audience (9/22)
 ---------------
 - Ethicacy Breakout 2 - Adams	Seth
 - Ethicacy Breakout 2 - Braick	Alise
@@ -198,6 +198,15 @@ Room 2 audience
 - Ethicacy Breakout 2 - Young	Yenmin
 - Ethicacy Breakout 2 - Zou	Qianhui Vanessa
 
+Room 1 presenters (9/29)
+-----------------
+- Ethicacy Breakout 1 - Park Jihae
+- Ethicacy Breakout 1 - Tobias Wayne
+
+Room 2 presenters (9/29)
+-----------------
+- Ethicacy Breakout 2 - Fung Harrison
+- Ethicacy Breakout 2 - Wardally Tanya
 
 
 
