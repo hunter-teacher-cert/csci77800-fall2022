@@ -221,17 +221,6 @@ Room 2 presenters (9/29)
 ---
 
 ### Week 6
-##### Topic: REGEX - continued
-#### Sync
-* Ethicacy
-* -tk
-
-#### Async
-* -tk
-
----
-
-### Week 6
 ##### Topic: Build a web page
 #### Sync
 * Ethicacy
