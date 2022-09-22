@@ -123,10 +123,85 @@ your-ethics-work-repo/py/binsearch.py
 
 ---
 
-### Week 4
+### Week 4 (9/22 or 9/29)
 ##### Topic: REGEX
 #### Sync
-* Ethicacy
+* Ethicacy Breakouts
+
+
+Room 1 presenters
+-----------------
+- Ethicacy Breakout 1 - Grant-Knight	Taylor
+- Ethicacy Breakout 1 - Prado	Adam
+
+Room 1 audience
+---------------
+- Ethicacy Breakout 1 - Bianchi	Joel
+- Ethicacy Breakout 1 - Boland	Latoya
+- Ethicacy Breakout 1 - Cassara	Aasine
+- Ethicacy Breakout 1 - Ciolino-Volano	Dave
+- Ethicacy Breakout 1 - Eckley	Benjamin
+- Ethicacy Breakout 1 - Elfers-Wygand	Patricia "Patti"
+- Ethicacy Breakout 1 - Herr	Kiana
+- Ethicacy Breakout 1 - LaMorie	William
+- Ethicacy Breakout 1 - Levels	Yeidy
+- Ethicacy Breakout 1 - Lin	Jiamin "Jenna"
+- Ethicacy Breakout 1 - Martin	Kirk
+- Ethicacy Breakout 1 - Maschmeyer	Katherine "Kate"
+- Ethicacy Breakout 1 - Mohanlall	Parmanand
+- Ethicacy Breakout 1 - Moste	David
+- Ethicacy Breakout 1 - Muller	Saranii
+- Ethicacy Breakout 1 - Novillo Argudo	Jessica
+- Ethicacy Breakout 1 - Parker	Richard
+- Ethicacy Breakout 1 - Sabaugh	Stephen "Steve"
+- Ethicacy Breakout 1 - Seccafico	SueAnn "Suzie"
+- Ethicacy Breakout 1 - Shuman	Marisa
+- Ethicacy Breakout 1 - Thomas	Marieke
+- Ethicacy Breakout 1 - Tobias	Wayne
+- Ethicacy Breakout 1 - Xue	Jing
+- Ethicacy Breakout 1 - ahmed	usman
+- Ethicacy Breakout 1 - driggers	adam
+
+
+Room 2 presenters
+-----------------
+- Ethicacy Breakout 2 - Marra	Christine
+- Ethicacy Breakout 2 - Yearwood	Maxwell
+
+Room 2 audience
+---------------
+- Ethicacy Breakout 2 - Adams	Seth
+- Ethicacy Breakout 2 - Braick	Alise
+- Ethicacy Breakout 2 - Cojuangco	Nicole
+- Ethicacy Breakout 2 - De Silva	Christopher
+- Ethicacy Breakout 2 - Fung	Harrison
+- Ethicacy Breakout 2 - Goldstein	stacy
+- Ethicacy Breakout 2 - Hawkins	Ed
+- Ethicacy Breakout 2 - Henry	Shana Elizabeth
+- Ethicacy Breakout 2 - Higgins	Joshua
+- Ethicacy Breakout 2 - Kaufman	Rachel
+- Ethicacy Breakout 2 - Lara	Erwin
+- Ethicacy Breakout 2 - Lee	Amanda
+- Ethicacy Breakout 2 - Lojacono	Samuel David "Sam"
+- Ethicacy Breakout 2 - McCoy	Sarah
+- Ethicacy Breakout 2 - Park	Jihae
+- Ethicacy Breakout 2 - Park	Moo Joon "Mike"
+- Ethicacy Breakout 2 - Randazzo	Michael
+- Ethicacy Breakout 2 - Rechtin	Elizabeth
+- Ethicacy Breakout 2 - Robinson	Alana
+- Ethicacy Breakout 2 - Sears	Yanique
+- Ethicacy Breakout 2 - Theobald	Jerusha
+- Ethicacy Breakout 2 - Ufret	Ashley
+- Ethicacy Breakout 2 - Wade	Alicia
+- Ethicacy Breakout 2 - Wardally	Tanya
+- Ethicacy Breakout 2 - Williams	Théa
+- Ethicacy Breakout 2 - Young	Yenmin
+- Ethicacy Breakout 2 - Zou	Qianhui Vanessa
+
+
+
+
+
 * REGEX
   - What are regular expressions and how can we use them in Python
 
