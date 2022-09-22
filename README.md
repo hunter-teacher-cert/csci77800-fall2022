@@ -123,7 +123,7 @@ your-ethics-work-repo/py/binsearch.py
 
 ---
 
-### Week 4 (9/22 or 9/29)
+### Week 4 and 5 (9/22 or 9/29)
 ##### Topic: REGEX
 #### Sync
 * Ethicacy Breakouts
@@ -211,8 +211,8 @@ Room 2 audience
 
 ---
 
-### Week 5
-##### Topic: REGEX
+### Week 6
+##### Topic: REGEX - continued
 #### Sync
 * Ethicacy
 * -tk
