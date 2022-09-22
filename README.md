@@ -216,7 +216,34 @@ Room 2 presenters (9/29)
 
 
 #### Async
-* -tk
+##### Folder: week04
+##### Due: Wed 9/28 at 9:00pm for 9/22 students
+##### Due: Wed 10/5 at 9:00pm for 9/29 students
+
+##### Instructions
+
+1. Create a plaintext file in your week04 folder named names.txt. This file should contain lines of text where some of the lines have one or more names. Names can be formatted in different ways. For example "John Smith" would be a name, as would "Mrs. Chen" and "Dr. S. Howard." Names can be formatted in many more ways as well. Try to include as many different ways of representing names as you can.
+1. Download the regex.py program from the code section of the main web site. Modify the program so that it will read names.txt. Your program should print out all the names it can identify in names.txt.
+
+##### Goal: 
+When the program is run, it should just run, read names.txt and print out the names it finds. You do not have to format the output in any special way; you can just print out the results of your calls to re.find() and/or any other functions you use to identify the names.
+
+Useful reference material:
+- online regex builder / tester site: https://regexr.com/
+- Python regex reference:
+  - https://www.w3schools.com/python/python_regex.asp
+  - https://www.tutorialspoint.com/python/python_reg_expressions.htm
+  - https://www.geeksforgeeks.org/python-regex-cheat-sheet/
+- General Regex tutorial:
+  - https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+- Python regex video
+  -https://www.youtube.com/watch?v=K8L6KVGG-7o&list=WL&index=107&t=322s
+
+##### Ethicacy Reminder
+Ethicacy presenters are expected to post their one-pager in #ethics-we early in the week and upload it to your repo.
+
+Everyone else is required to comment on one of the weekly ethicacy posts or previous comments.
+
 
 ---
 
