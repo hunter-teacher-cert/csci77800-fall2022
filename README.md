@@ -132,9 +132,20 @@ your-ethics-work-repo/py/binsearch.py
 Room 1 presenters (9/22)
 -----------------
 - Ethicacy Breakout 1 - Grant-Knight	Taylor
-- Ethicacy Breakout 1 - Prado	Adam
+- Ethicacy Breakout 1 - Prado	Ada
 
-Room 1 audience (9/22)
+
+Room 2 presenters (9/22)
+-----------------
+- Ethicacy Breakout 2 - Marra	Christine
+- Ethicacy Breakout 2 - Yearwood	Maxwell
+
+Room 1 presenters (9/29)
+-----------------
+- Ethicacy Breakout 1 - Park Jihae
+- Ethicacy Breakout 1 - Tobias Wayne
+
+Room 1 audience (9/29)
 ---------------
 - Ethicacy Breakout 1 - Bianchi	Joel
 - Ethicacy Breakout 1 - Boland	Latoya
@@ -162,13 +173,12 @@ Room 1 audience (9/22)
 - Ethicacy Breakout 1 - ahmed	usman
 - Ethicacy Breakout 1 - driggers	adam
 
-
-Room 2 presenters (9/22)
+Room 2 presenters (9/29)
 -----------------
-- Ethicacy Breakout 2 - Marra	Christine
-- Ethicacy Breakout 2 - Yearwood	Maxwell
+- Ethicacy Breakout 2 - Fung Harrison
+- Ethicacy Breakout 2 - Wardally Tanya
 
-Room 2 audience (9/22)
+Room 2 audience (9/29)
 ---------------
 - Ethicacy Breakout 2 - Adams	Seth
 - Ethicacy Breakout 2 - Braick	Alise
@@ -197,17 +207,6 @@ Room 2 audience (9/22)
 - Ethicacy Breakout 2 - Williams	Théa
 - Ethicacy Breakout 2 - Young	Yenmin
 - Ethicacy Breakout 2 - Zou	Qianhui Vanessa
-
-Room 1 presenters (9/29)
------------------
-- Ethicacy Breakout 1 - Park Jihae
-- Ethicacy Breakout 1 - Tobias Wayne
-
-Room 2 presenters (9/29)
------------------
-- Ethicacy Breakout 2 - Fung Harrison
-- Ethicacy Breakout 2 - Wardally Tanya
-
 
 
 
@@ -248,6 +247,18 @@ Everyone else is required to comment on one of the weekly ethicacy posts or prev
 ---
 
 ### Week 6
+
+Room 1 presenters (10/5)
+-----------------
+- Ethicacy Breakout 1 - Rachel
+- Ethicacy Breakout 1 - Vanessa
+
+Room 2 presenters (10/5)
+-----------------
+- Ethicacy Breakout 2 - Marieka
+- Ethicacy Breakout 2 - Jessica
+
+### Week 7
 ##### Topic: Build a web page
 #### Sync
 * Ethicacy
@@ -258,7 +269,7 @@ Everyone else is required to comment on one of the weekly ethicacy posts or prev
 
 ---
 
-### Week 7
+### Week 8
 ##### Topic: web and accessibility
 #### Sync
 * Ethicacy
@@ -269,7 +280,7 @@ Everyone else is required to comment on one of the weekly ethicacy posts or prev
 
 ---
 
-### Week 8
+### Week 9
 ##### Topic: Start airplane seating assignment
 #### Sync
 * Ethicacy
@@ -288,7 +299,7 @@ Everyone else is required to comment on one of the weekly ethicacy posts or prev
 
 ---
 
-### Week 9
+### Week 10
 ##### Topic: Continue airplane seating
 #### Sync
 * Ethicacy
@@ -300,7 +311,7 @@ Everyone else is required to comment on one of the weekly ethicacy posts or prev
 
 ---
 
-### Week 10
+### Week 11
 ##### Topic: Privacy and the web
 #### Sync
 * Ethicacy
@@ -314,7 +325,7 @@ Everyone else is required to comment on one of the weekly ethicacy posts or prev
 
 ---
 
-### Week 11
+### Week 12
 ##### Topic: Unforeseen consequences
 #### Sync
 * Ethicacy
@@ -328,7 +339,7 @@ Everyone else is required to comment on one of the weekly ethicacy posts or prev
 
 ---
 
-### Week 12
+### Week 13
 ##### Topic: 
 #### Sync
 * Ethicacy
@@ -339,7 +350,7 @@ Everyone else is required to comment on one of the weekly ethicacy posts or prev
 
 ---
 
-### Week 13
+### Week 14
 ##### Topic: Ethicacy and final presentations
 #### Sync
 * Ethicacy
@@ -350,7 +361,7 @@ Everyone else is required to comment on one of the weekly ethicacy posts or prev
 
 ---
 
-### Week 14
+### Week 15
 ##### Topic: Ethicacy and final presentations
 #### Sync
 * Ethicacy
