@@ -270,20 +270,21 @@ CSS Tutorials
 - https://www.tutorialspoint.com/css/index.htm
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials
 Grid and Flexbox tutorials
--https://www.quackit.com/css/flexbox/examples/
+- https://www.quackit.com/css/flexbox/examples/
+
 And some reference sites:
 
 HTML references
-https://www.w3schools.com/tags/default.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Reference
-https://htmlreference.io/
+* https://www.w3schools.com/tags/default.asp
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Reference
+* https://htmlreference.io/
 CSS references
-https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
-https://cssreference.io/
-https://www.w3schools.com/cssref/
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+* https://cssreference.io/
+* https://www.w3schools.com/cssref/
 Grid examples
-https://gridbyexample.com/examples/
-https://webkit.org/demos/css-grid/
+* https://gridbyexample.com/examples/
+* https://webkit.org/demos/css-grid/
 
 
 
