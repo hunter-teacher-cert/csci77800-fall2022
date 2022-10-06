@@ -145,69 +145,10 @@ Room 1 presenters (9/29)
 - Ethicacy Breakout 1 - Park Jihae
 - Ethicacy Breakout 1 - Tobias Wayne
 
-Room 1 audience (9/29)
----------------
-- Ethicacy Breakout 1 - Bianchi	Joel
-- Ethicacy Breakout 1 - Boland	Latoya
-- Ethicacy Breakout 1 - Cassara	Aasine
-- Ethicacy Breakout 1 - Ciolino-Volano	Dave
-- Ethicacy Breakout 1 - Eckley	Benjamin
-- Ethicacy Breakout 1 - Elfers-Wygand	Patricia "Patti"
-- Ethicacy Breakout 1 - Herr	Kiana
-- Ethicacy Breakout 1 - LaMorie	William
-- Ethicacy Breakout 1 - Levels	Yeidy
-- Ethicacy Breakout 1 - Lin	Jiamin "Jenna"
-- Ethicacy Breakout 1 - Martin	Kirk
-- Ethicacy Breakout 1 - Maschmeyer	Katherine "Kate"
-- Ethicacy Breakout 1 - Mohanlall	Parmanand
-- Ethicacy Breakout 1 - Moste	David
-- Ethicacy Breakout 1 - Muller	Saranii
-- Ethicacy Breakout 1 - Novillo Argudo	Jessica
-- Ethicacy Breakout 1 - Parker	Richard
-- Ethicacy Breakout 1 - Sabaugh	Stephen "Steve"
-- Ethicacy Breakout 1 - Seccafico	SueAnn "Suzie"
-- Ethicacy Breakout 1 - Shuman	Marisa
-- Ethicacy Breakout 1 - Thomas	Marieke
-- Ethicacy Breakout 1 - Tobias	Wayne
-- Ethicacy Breakout 1 - Xue	Jing
-- Ethicacy Breakout 1 - ahmed	usman
-- Ethicacy Breakout 1 - driggers	adam
-
 Room 2 presenters (9/29)
 -----------------
 - Ethicacy Breakout 2 - Fung Harrison
 - Ethicacy Breakout 2 - Wardally Tanya
-
-Room 2 audience (9/29)
----------------
-- Ethicacy Breakout 2 - Adams	Seth
-- Ethicacy Breakout 2 - Braick	Alise
-- Ethicacy Breakout 2 - Cojuangco	Nicole
-- Ethicacy Breakout 2 - De Silva	Christopher
-- Ethicacy Breakout 2 - Fung	Harrison
-- Ethicacy Breakout 2 - Goldstein	stacy
-- Ethicacy Breakout 2 - Hawkins	Ed
-- Ethicacy Breakout 2 - Henry	Shana Elizabeth
-- Ethicacy Breakout 2 - Higgins	Joshua
-- Ethicacy Breakout 2 - Kaufman	Rachel
-- Ethicacy Breakout 2 - Lara	Erwin
-- Ethicacy Breakout 2 - Lee	Amanda
-- Ethicacy Breakout 2 - Lojacono	Samuel David "Sam"
-- Ethicacy Breakout 2 - McCoy	Sarah
-- Ethicacy Breakout 2 - Park	Jihae
-- Ethicacy Breakout 2 - Park	Moo Joon "Mike"
-- Ethicacy Breakout 2 - Randazzo	Michael
-- Ethicacy Breakout 2 - Rechtin	Elizabeth
-- Ethicacy Breakout 2 - Robinson	Alana
-- Ethicacy Breakout 2 - Sears	Yanique
-- Ethicacy Breakout 2 - Theobald	Jerusha
-- Ethicacy Breakout 2 - Ufret	Ashley
-- Ethicacy Breakout 2 - Wade	Alicia
-- Ethicacy Breakout 2 - Wardally	Tanya
-- Ethicacy Breakout 2 - Williams	Théa
-- Ethicacy Breakout 2 - Young	Yenmin
-- Ethicacy Breakout 2 - Zou	Qianhui Vanessa
-
 
 
 * REGEX
@@ -258,16 +199,94 @@ Room 2 presenters (10/5)
 - Ethicacy Breakout 2 - Marieka
 - Ethicacy Breakout 2 - Jessica
 
-### Week 7
-##### Topic: Build a web page
-#### Sync
-* Ethicacy
-* -tk
 
-#### Async
-* -tk
+#### Describe ASYNC assignment
+Async
 
----
+Folder: Not applicable. All work in Slack
+
+###### Part 1
+Read these pieces:
+
+- https://www.theverge.com/2021/9/6/22659225/automated-hiring-software-rejecting-viable-candidates-harvard-business-school
+- https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G
+- https://montrealethics.ai/why-was-your-job-application-rejected-bias-in-recruitment-algorithms-part-1/
+- https://montrealethics.ai/why-was-your-job-application-rejected-bias-in-recruitment-algorithms-part-2/
+
+In the week05 async thread comment on at least one of the following questions and respond to at least classmates comment. Some of these questions are only tangentially related to the automated scanning issues.
+
+Should companies scan social media accounts of either potential employees or current employees or should they be sacrosanct? Should it be different for potential vs current employees?
+
+Do you find a professional benefit to using social media and what and if so what are they? On the flip side, what might be the professional dangers?
+
+What are your thoughts on connecting with students on social media?
+
+If you were to design an automated job portal, how would you structure it so that employers could optimally use it while also protecting applicants in terms of both privacy as well as from any biases employers may have?
+
+###### Part 2
+Set up a repo in preparation for creating a web page.
+
+Go to GitHub
+- Click on “new” to create a new repo (button on the upper left usually)
+- type in a name for the repo
+- Make sure you select public for access (not private)
+- Make sure you select “create a readme file”
+- Once the repo is created go to settings
+- Select the “pages” tab from left side tab list
+- Select “main” as the branch and save (leave the / (root) thing alone)
+
+### Week 7 build a web page
+Folder: week07
+
+Due: 10/19 9:00pm
+
+Filename: websites.md
+
+For this site you will make a web site and host it on GitHub. The site could be for class page, a personal site, or anything else. The site must include a form (although the form won’t actually do anything) and at least one image but can include anything and everything else.
+
+You can and are encouraged to work with a partner - if so, both repos should contain the same information and it should be clear on the site who worked on it.
+
+Not all of you are at the same level of experience with HTML and/or so we expect something comensurate with your knowledge. Not in terms of size but in terms of what you use. That is, brand new people will have much more bare bones sites and that’s fine. I would love for you to take the week to stretch yourself a bit - try something new.
+
+We do not expect any javascript for this assignment, just HTML and CSS.
+
+You are to make the web site in a GitHub repository. In the file websites.md put links to:
+
+The repo that’s holding the web site code (and location if it’s not the only thing there).
+A link to the live website.
+The name of your partner if you’re working with one.
+Here are four videos to get you started. The first covers setting up the GitHub repo, the second basic HTML, then CSS, then more advanced CSS.
+
+- setup: https://www.youtube.com/watch?v=4Do0NXfiaX4&list=PL9KxKa8NpFxL2CpZG0Q6YpOJya8v788wx&index=10
+- basic html: https://www.youtube.com/watch?v=PackQ6dgUIY&list=PL9KxKa8NpFxL2CpZG0Q6YpOJya8v788wx&index=9
+- basic css: https://www.youtube.com/watch?v=48UJRMk15i8&list=PL9KxKa8NpFxL2CpZG0Q6YpOJya8v788wx&index=8
+- more css (grid): https://www.youtube.com/watch?v=Hh0ac_djkWM&list=PL9KxKa8NpFxL2CpZG0Q6YpOJya8v788wx&index=7
+- Here are some tutorial sites:
+
+HTML tutorials
+- https://www.w3schools.com/html/
+- https://www.tutorialspoint.com/html/index.htm
+CSS Tutorials
+- https://www.w3schools.com/Css/
+- https://www.tutorialspoint.com/css/index.htm
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials
+Grid and Flexbox tutorials
+-https://www.quackit.com/css/flexbox/examples/
+And some reference sites:
+
+HTML references
+https://www.w3schools.com/tags/default.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference
+https://htmlreference.io/
+CSS references
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+https://cssreference.io/
+https://www.w3schools.com/cssref/
+Grid examples
+https://gridbyexample.com/examples/
+https://webkit.org/demos/css-grid/
+
+
 
 ### Week 8
 ##### Topic: web and accessibility
