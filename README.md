@@ -201,8 +201,10 @@ Room 2 presenters (10/5)
 
 
 #### Async
+##### Folder: n/a since responses on Slack
+##### Due: Wed 9/12 9:00pm
 
-Folder: Not applicable. All work in Slack
+##### Instructions
 
 ###### Part 1
 Read these pieces:
