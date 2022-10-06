@@ -236,12 +236,14 @@ Go to GitHub
 - Select the “pages” tab from left side tab list
 - Select “main” as the branch and save (leave the / (root) thing alone)
 
-### Week 7 build a web page
+### Week 7
+##### Topic: Build a web page
+
 Folder: week07
 
 Due: 10/19 9:00pm
 
-Filename: websites.md
+Filename: `websites.md`
 
 For this site you will make a web site and host it on GitHub. The site could be for class page, a personal site, or anything else. The site must include a form (although the form won’t actually do anything) and at least one image but can include anything and everything else.
 
