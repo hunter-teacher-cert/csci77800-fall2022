@@ -269,10 +269,12 @@ Here are four videos to get you started. The first covers setting up the GitHub 
 HTML tutorials
 - https://www.w3schools.com/html/
 - https://www.tutorialspoint.com/html/index.htm
+
 CSS Tutorials
 - https://www.w3schools.com/Css/
 - https://www.tutorialspoint.com/css/index.htm
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials
+
 Grid and Flexbox tutorials
 - https://www.quackit.com/css/flexbox/examples/
 
@@ -282,10 +284,12 @@ HTML references
 * https://www.w3schools.com/tags/default.asp
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Reference
 * https://htmlreference.io/
+
 CSS references
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 * https://cssreference.io/
 * https://www.w3schools.com/cssref/
+
 Grid examples
 * https://gridbyexample.com/examples/
 * https://webkit.org/demos/css-grid/
