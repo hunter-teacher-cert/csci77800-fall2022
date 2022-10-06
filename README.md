@@ -200,8 +200,7 @@ Room 2 presenters (10/5)
 - Ethicacy Breakout 2 - Jessica
 
 
-#### Describe ASYNC assignment
-Async
+#### Async
 
 Folder: Not applicable. All work in Slack
 
@@ -213,7 +212,7 @@ Read these pieces:
 - https://montrealethics.ai/why-was-your-job-application-rejected-bias-in-recruitment-algorithms-part-1/
 - https://montrealethics.ai/why-was-your-job-application-rejected-bias-in-recruitment-algorithms-part-2/
 
-In the week05 async thread comment on at least one of the following questions and respond to at least classmates comment. Some of these questions are only tangentially related to the automated scanning issues.
+In the week06 async thread comment on at least one of the following questions and respond to at least classmates comment. Some of these questions are only tangentially related to the automated scanning issues.
 
 Should companies scan social media accounts of either potential employees or current employees or should they be sacrosanct? Should it be different for potential vs current employees?
 
