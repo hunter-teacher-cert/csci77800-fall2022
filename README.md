@@ -202,7 +202,7 @@ Room 2 presenters (10/5)
 
 #### Async
 ##### Folder: n/a since responses on Slack
-##### Due: Wed 9/12 9:00pm
+##### Due: Wed 10/12 9:00pm
 
 ##### Instructions
 
