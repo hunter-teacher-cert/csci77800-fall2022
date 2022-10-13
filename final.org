@@ -16,7 +16,8 @@ Link: https://forms.gle/zLWarH36bj9FSwT76
 | Team member 1 | Team member 2 | Project                |
 |---------------+---------------+------------------------|
 | Thea          | Kiana         | Social Media Addiction |
-|               |               |                        |
+| Driggs        | Elizabeth     | Gamification of Life   |
+
 ** Specification
 
 
