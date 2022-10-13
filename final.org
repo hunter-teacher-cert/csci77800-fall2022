@@ -1,0 +1,111 @@
+* Final Project
+
+** Proposal Form
+
+Once you've read the description of the project, fill out this form
+so that the instructors can provide feedback and ultimately approve
+your project.
+
+Once approved, your project will be listed in the "Selected Projects"
+section below.
+
+Link: https://forms.gle/zLWarH36bj9FSwT76
+
+
+** Selected Projects
+| Team member 1 | Team member 2 | Project                |
+|---------------+---------------+------------------------|
+| Thea          | Kiana         | Social Media Addiction |
+|               |               |                        |
+** Specification
+
+
+*Select and explore a topic relevant to Ethical CS (to be approved by the instructor).* 
+
+
+Create a presentation and paper giving an overview of the issue, why
+it should be addressed, and possible solutions. The presentation
+should include program-based examples illustrating the problem and
+where appropriate to address solutions.Depending on topic, each team
+may de/emphasize different portions.
+
+Each project must also include a code component - that is a program
+related to the topic. 
+
+
+*Groups:* This is a team project. You should work with a single
+ partner.
+
+ There is no set length for the paper but the presentation slides,
+ which should summarize the project should be able to be presented in
+ 15 minutes. As the final project is 25% of the grade, it should be of
+ an appropriate depth and complexity.
+
+GUIDING GOAL: Leave your classmates with something they can
+incorporate into their own praxis. This could be a turn-key day/unit
+plan, can include code snippets or full working programs, or something more
+abstract. You know your audience...
+
+
+** DELIVERABLES:
+
+    PDF of presentation (I.e., If you make a slide deck, export it to
+    a PDF version.)  optional: slide deck or other content in its
+    original format (slide deck, document, etc) Any code you use or
+    cite.  Location/format: <reporoot>/final_project/*
+
+    PDF of the paper.
+
+    The code component
+
+** Notes on the code aspect:
+
+There must be a code component to your final project. This code
+component does not have to be polished but it should be used to either
+explore, illustrate your topic. It can be an implementation of
+something related to the issue. For example, a program that splits
+congressional districts or determines bail amount. It can also be
+tangential. For example, if your issue has environmental concerns a
+simulation that illustrates these issues.
+
+You can use any programming language as long as the instructors can
+run it. 
+
+** Due Date:
+
+TBD (likely a session or two before the last class session).
+
+** Topic suggestions
+
+If you want to do a topic not on the list, feel free to DM the
+instructors.
+
+Regardless, make sure you DM the instructors noting who you are
+working with and what you plan to cover.
+
+- Bias in data sets
+- Loan algorithms
+- Gaming  / Smartphone / Facebook addiction
+- AI Authorship (copyright)
+- AI Hiring practices in amazon 
+- Open Source Software / Software licenses / EULAs
+- predictive policing (see NYC Data mine or other data resources for stats)
+- bail
+- Value Added Metrics (VAM)
+- gerrymandering 
+- e-waste cycle / right to repair
+- digital video in policing
+- visually accesible web
+- cryptocurrency emissions
+- digital divide
+- Right to repai
+- planned obsolescence of smartphones
+- password managers
+- HS Matching algorithm (or other matching algos)
+- Fake news
+- randomware (sortof related are patent trolls) 
+- Loan algorithms  
+- Anything based on, spinning, or extending a class topic or ethicacy topic
+
+
+
