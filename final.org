@@ -2,7 +2,7 @@
 
 ** Proposal Form
 
-Once you've read the description of the project, fill out this form
+Once you've read the specification for the project (below) and decide on your topic, fill out this form
 so that the instructors can provide feedback and ultimately approve
 your project.
 
