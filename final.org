@@ -58,6 +58,8 @@ abstract. You know your audience...
 
     The code component
 
+    All files should be placed in the final_project folder of both team member's repos on GitHub.
+    
 ** Notes on the code aspect:
 
 There must be a code component to your final project. This code
