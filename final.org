@@ -17,8 +17,6 @@ Link: https://forms.gle/zLWarH36bj9FSwT76
 |---------------------+------------------+------------------------|
 | Thea                | Kiana            | Social Media Addiction |
 | Driggs              | Elizabeth        | Gamification of Life   |
-| Yeidy	              | Rachel	          | Phone Addiction        |
-| Taylor Grant-Knight	| Wei (Amanda) Lee	| Fake News              |
 
 ** Specification
 
