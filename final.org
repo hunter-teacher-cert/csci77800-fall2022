@@ -18,6 +18,7 @@ Link: https://forms.gle/zLWarH36bj9FSwT76
 | Thea                | Kiana            | Social Media Addiction |
 | Driggs              | Elizabeth        | Gamification of Life   |
 | Marisa              | Marieke          | Facial Recognition     |
+| Alise | Ben | Cryptocurrency Emissions | 
 
 ** Specification
 
