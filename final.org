@@ -2,7 +2,7 @@
 
 ** Proposal Form
 
-Once you've read the description of the project, fill out this form
+Once you've read the specification for the project (below) and decide on your topic, fill out this form
 so that the instructors can provide feedback and ultimately approve
 your project.
 
@@ -14,9 +14,25 @@ Link: https://forms.gle/zLWarH36bj9FSwT76
 
 ** Selected Projects
 | Team member 1 | Team member 2 | Project                |
-|---------------+---------------+------------------------|
-| Thea          | Kiana         | Social Media Addiction |
-|               |               |                        |
+|---------------------+------------------+------------------------|
+| Thea                | Kiana            | Social Media Addiction |
+| Driggs              | Elizabeth        | Gamification of Life   |
+| Marisa              | Marieke          | Facial Recognition     |
+| Alise | Ben | Cryptocurrency Emissions | 
+| David | Joel | HS Matching Algorithm |
+| Wayne | Ed | Gerrymandering |
+| Patti | Vanessaa | Facebook/Gaming/Phone Addiction |
+| Kiana | Thea | Social Media Addiction |
+| Jenna | Jihai | Planned Obsolescence |
+| Parmanand | Erwin | Deep Fake Technology |
+| Kirk | Usman | Gaming Addiction | 
+| SueAnn | Stacy | AI To Diagnose Disease | 
+| Sam | Will | Gerrymandering | 
+| Harrison | Jessica | Gerrymandering |
+|TGK | Amanda | Fake News |
+
+
+
 ** Specification
 
 
@@ -58,6 +74,8 @@ abstract. You know your audience...
 
     The code component
 
+    All files should be placed in the final_project folder of both team member's repos on GitHub.
+    
 ** Notes on the code aspect:
 
 There must be a code component to your final project. This code
@@ -73,15 +91,15 @@ run it.
 
 ** Due Date:
 
-TBD (likely a session or two before the last class session).
+December 1, start of class (one week before the final class)
 
 ** Topic suggestions
 
 If you want to do a topic not on the list, feel free to DM the
 instructors.
 
-Regardless, make sure you DM the instructors noting who you are
-working with and what you plan to cover.
+Remember to fill out the form linked at the top once you've decided on partner and topic.
+If you have any questions DM the instructor. If you submit the form and there's an issue with your choice of project, the instructors will contact you.
 
 - Bias in data sets
 - Loan algorithms

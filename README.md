@@ -299,11 +299,52 @@ Grid examples
 ### Week 8
 ##### Topic: web and accessibility
 #### Sync
-* Ethicacy
-* -tk
+  - Ethicacy
+  - Overview: https://www.w3.org/WAI/fundamentals/accessibility-intro/
+  - Guidelines: https://www.w3.org/TR/WCAG/
+  - Automated accessibility checkers:
+    - https://accessibilitytest.org/
+    - https://www.webaccessibility.com/
+  - article with link to tools: https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
+  - Editor themes:
+    - emacs: https://protesilaos.com/emacs/modus-themes
+    - emacs: https://github.com/protesilaos/modus-themes
+  - Screen readers
+    - linux:
+      - https://wiki.gnome.org/Projects/Orca
+      - https://help.gnome.org/users/orca/stable/
+    - MS:
+      - https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3aprimaryr2
+      - https://support.microsoft.com/en-us/windows/use-a-screen-reader-to-explore-and-navigate-settings-in-windows-114e0fa0-42d6-4dba-8afe-374b70e2a5c8
+    - Apple:
+      - https://www.apple.com/accessibility/vision/
+    - google:
+      - https://support.google.com/docs/answer/6282736?hl=en&co=GENIE.Platform%3DDesktop
+      - https://support.google.com/docs/answer/6282736?hl=en&co=GENIE.Platform%3DDesktop
+  - Magnifiers
+
 
 #### Async
-* -tk
+Folder: No folder for this week. Submissions on Slack and final form
+
+- Download the program `plane_seating.py` from the code folder on our 
+  web site. Run and read through the program and work to understand
+  specifically how it works. The program overall simulates the
+  purchase of seats for a plane but look at the file for comments and
+  then study the code.
+- Read:
+  - https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
+  - https://www.bootstrapworld.org/blog/accessibility/User-Interface-REPL.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/Describing-Images-Screenreaders.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/Text-Navigation.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/User-Testing.shtml
+  - https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
+- Here are some more references to look over on accessibility 
+  - Overview: https://www.w3.org/WAI/fundamentals/accessibility-intro/
+   - Guidelines here:https://www.w3.org/TR/WCAG/
+- Fill out final proposal (see finals.org on main page)
+- Post to async channel which HTML accessibility features you could most easily incorporate into student assigments.
+
 
 ---
 
@@ -406,3 +447,59 @@ Grid examples
 ## Our work repos
 (Dont' have one yet? Follow this link to initialize yours:  <https://classroom.github.com/a/-iW8TBoR>)
 
+- [Seth](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-Mr-Adams)
+- [usman](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-usman0527)
+- [Joel](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-JABianchi)
+- [Latoya](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-BolandTech)
+- [Alise](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-AliseBraick)
+- [Aasine](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-acassara13)
+- [Dave](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-dcv86)
+- [Nicole](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-msCOJUANGCO)
+- [Christopher](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-cdesilva2)
+- [adam](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-awdriggs)
+- [Benjamin](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-beckley1)
+- [Patricia "Patti"](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-pelfers21)
+- [Harrison](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-hfung8)
+- [stacy](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-sgoldstein11)
+- [Taylor](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-tgrantknight)
+- [Ed](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-ehawkins18)
+- [Shana Elizabeth](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-mathiskey)
+- [Kiana](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-herrkm)
+- [Joshua](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-Mr-Higgins)
+- [Rachel](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-rkaufman8)
+- [William](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-mrlamorie)
+- [Erwin](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-elara711)
+- [Amanda](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-AmaneWei)
+- [Yeidy](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-YLevels)
+- [Jiamin "Jenna"](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-jenna0704)
+- [Samuel David "Sam"](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-sdl5384)
+- [Christine](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-chrismarra21)
+- [Kirk](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-Kirk-Martin)
+- [Katherine "Kate"](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-Kmaschm)
+- [Sarah](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-sarahkmccoy)
+- [Parmanand](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-ParmanandM1)
+- [David](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-dmoste)
+- [Saranii](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-saraniim)
+- [Jessica](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-jnovillo)
+- [Jihae](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-jpark-29)
+- [Moo Joon "Mike"](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-michaelpark677)
+- [Richard](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-richparker718)
+- [Adam](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-AJP713)
+- [Michael](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-mikeinawall)
+- [Elizabeth](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-DrydenArt)
+- [Alana](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-AlanaY11)
+- [Stephen "Steve"](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-SAYbaw)
+- [Yanique](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-ysears)
+- [SueAnn "Suzie"](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-ssecc001)
+- [Marisa](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-Mshuman8)
+- [Jerusha](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-jmtheo8)
+- [Marieke](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-marieke-thomas)
+- [Wayne](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-WayneTobias)
+- [Ashley](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-A-Ufret)
+- [Alicia](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-awade05)
+- [Tanya](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-twardally)
+- [Théa](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-theawilliams19)
+- [Jing](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-jingxue8303)
+- [Maxwell](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-Maxwoodi)
+- [Yenmin](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-yenminyoung)
+- [Qianhui Vanessa](https://github.com/hunter-teacher-cert/fall-2022-ethics-work-qvzou)
