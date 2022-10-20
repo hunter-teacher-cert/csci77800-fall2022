@@ -19,6 +19,17 @@ Link: https://forms.gle/zLWarH36bj9FSwT76
 | Driggs              | Elizabeth        | Gamification of Life   |
 | Marisa              | Marieke          | Facial Recognition     |
 | Alise | Ben | Cryptocurrency Emissions | 
+| David | Joel | HS Matching Algorithm |
+| Wayne | Ed | Gerrymandering |
+| Patti | Vanessaa | Facebook/Gaming/Phone Addiction |
+| Kiana | Thea | Social Media Addiction |
+| Jenna | Jihai | Planned Obsolescence |
+| Parmanand | Erwin | Deep Fake Technology |
+| Kirk | Usman | Gaming Addiction | 
+| SueAnn | Stacy | AI To Diagnose Disease | 
+| Sam | Will | Gerrymandering | 
+| Harrison | Jessica | Gerrymandering |
+
 
 ** Specification
 
