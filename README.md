@@ -299,11 +299,52 @@ Grid examples
 ### Week 8
 ##### Topic: web and accessibility
 #### Sync
-* Ethicacy
-* -tk
+  - Ethicacy
+  - Overview: https://www.w3.org/WAI/fundamentals/accessibility-intro/
+  - Guidelines: https://www.w3.org/TR/WCAG/
+  - Automated accessibility checkers:
+    - https://accessibilitytest.org/
+    - https://www.webaccessibility.com/
+  - article with link to tools: https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
+  - Editor themes:
+    - emacs: https://protesilaos.com/emacs/modus-themes
+    - emacs: https://github.com/protesilaos/modus-themes
+  - Screen readers
+    - linux:
+      - https://wiki.gnome.org/Projects/Orca
+      - https://help.gnome.org/users/orca/stable/
+    - MS:
+      - https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3aprimaryr2
+      - https://support.microsoft.com/en-us/windows/use-a-screen-reader-to-explore-and-navigate-settings-in-windows-114e0fa0-42d6-4dba-8afe-374b70e2a5c8
+    - Apple:
+      - https://www.apple.com/accessibility/vision/
+    - google:
+      - https://support.google.com/docs/answer/6282736?hl=en&co=GENIE.Platform%3DDesktop
+      - https://support.google.com/docs/answer/6282736?hl=en&co=GENIE.Platform%3DDesktop
+  - Magnifiers
+
 
 #### Async
-* -tk
+Folder: No folder for this week. Submissions on Slack and final form
+
+- Download the program `plane_seating.py` from the code folder on our 
+  web site. Run and read through the program and work to understand
+  specifically how it works. The program overall simulates the
+  purchase of seats for a plane but look at the file for comments and
+  then study the code.
+- Read:
+  - https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
+  - https://www.bootstrapworld.org/blog/accessibility/User-Interface-REPL.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/Describing-Images-Screenreaders.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/Text-Navigation.shtml
+  - https://www.bootstrapworld.org/blog/accessibility/User-Testing.shtml
+  - https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
+- Here are some more references to look over on accessibility 
+  - Overview: https://www.w3.org/WAI/fundamentals/accessibility-intro/
+   - Guidelines here:https://www.w3.org/TR/WCAG/
+- Fill out final proposal (see finals.org on main page)
+- Post to async channel which HTML accessibility features you could most easily incorporate into student assigments.
+
 
 ---
 
