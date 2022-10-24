@@ -23,7 +23,7 @@ Link: https://forms.gle/zLWarH36bj9FSwT76
 | Wayne | Ed | Gerrymandering |
 | Patti | Vanessaa | Facebook/Gaming/Phone Addiction |
 | Kiana | Thea | Social Media Addiction |
-| Jenna | Jihai | Planned Obsolescence |
+| Jenna | Jihai and Mike R. | Planned Obsolescence |
 | Parmanand | Erwin | Deep Fake Technology |
 | Kirk | Usman | Gaming Addiction | 
 | SueAnn | Stacy | AI To Diagnose Disease | 
@@ -37,6 +37,18 @@ Link: https://forms.gle/zLWarH36bj9FSwT76
 | Alana | Setephen | Digital Redlining |
 | Yanique | Adam | Digital Divide|
 
+The following groups need to update us - we need you to DM us either
+your project title and description, the coding component, or both.
+
+| Team member 1 | Team member 2 | Project                |
+|---------------------+------------------+------------------------|
+| Jerusha | Tanya ||
+| Jing | Sarani ||
+| Nicole | Chris ||
+| Sarah|  Mike Park | | 
+| Seth | Dave | |
+| Yeidy Levels| Rachel Kaufman| Phone addiction
+  
 
 
 ** Specification
