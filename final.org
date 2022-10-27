@@ -43,9 +43,9 @@ your project title and description, the coding component, or both.
 | Team member 1 | Team member 2 | Project                |
 |---------------------+------------------+------------------------|
 | Jerusha | Tanya ||
-| Jing | Sarani ||
+| Jing | Rich, Mike Park||
 | Nicole | Chris ||
-| Sarah|  Mike Park | | 
+| Sarah|  Saranii | | 
 | Seth | Dave | |
 | Yeidy Levels| Rachel Kaufman| Phone addiction
   
