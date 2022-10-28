@@ -388,7 +388,7 @@ Folder: week09_seating
   ethical optimization (that is, they optimize for a good ethical
   reason but it has a negative unintended consequence). Post article
   link or reference to this to #ethics-async
-- make a file `week09_plane/consequences.md` with link to article 
+- make a file `week09_seating/consequences.md` with link to article 
 
 
 ### Week 10
