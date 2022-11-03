@@ -398,8 +398,18 @@ Folder: week09_seating
 * discussion of better algorithms - together
 * lab (sync and async): implement new algorithm
 
-#### Async
-* -tk
+#### Async Week 10 - DUE 11/16 (2 weeks) 9:00pm
+* Repo directory: week09_seating (yes, the same directory as last week)
+* Note: This assignment should be done in teams of 2 or 3.
+* Write up a description of the algorithm you will implement as a text, pdf or md file and store it
+  in the folder under the name algorithm.txt, algorithm.pdf or algorithm.md
+* Make a copy of the provided plane_seating.py in the folder
+  and implement as much of your algorithm as you can.
+  If you can't implement it fully, describe in the comments what
+  you couldn't do due to either time or complexity.
+* If you want to start with a new plane base rather than work from the
+  provided code (even in another language), that's fine but make sure the filename for your
+  implementation is still plane_seating.py or plane_seathing.whatever where whatever is the appropriate language extension 
 
 ---
 
