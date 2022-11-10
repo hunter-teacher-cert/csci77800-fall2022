@@ -414,34 +414,43 @@ Folder: week09_seating
 ---
 
 ### Week 11
-##### Topic: Privacy and the web
+##### Ethicacy catchup
 #### Sync
 * Ethicacy
-* What information are we sharing when we access the web?
-  - breakout
-  - list
-* Reading
+* Ethicacy Presenters:
+* Session 1:
+ - Room 1: awade, jhiggens  
+ - Room 2: slojacono, kherr
+
+* Session 2:
+ - Room 1: arobinson, ssabaugh
+ - Room 2: lboland, dciolino-volano
+
+* Session 3:
+ - Room 1: sadams, ssecccafico 
+ - Room 2: dmoste, alee
+
+* Session 4:
+ - Room 1: jxue, twilliams
+ - Room 2: ylevels, ysears
+
+
+#### Async
+ - Fill out this form with your movie preferences: https://forms.gle/hv8W5cRvBqwwGoNi6
+ - Fill out this form at least 3 times to recommend at least 3 movies: https://forms.gle/TdzfHLqeow411Qhg6
+ - Finish previous week’s assignment (plane seating implementation)
+
+---
+
+### Week 12 - 11/17
+##### Topic: 
 
 #### Async
 * -tk
 
 ---
 
-### Week 12
-##### Topic: Unforeseen consequences
-#### Sync
-* Ethicacy
-* plane demo
-* survey results analysis
-  - recommendation engines: strengths, weaknesses, obvious and otherwise
-* regulation
-
-#### Async
-* -tk
-
----
-
-### Week 13
+### Week 13 - 12/1
 ##### Topic: 
 #### Sync
 * Ethicacy
@@ -452,7 +461,7 @@ Folder: week09_seating
 
 ---
 
-### Week 14
+### Week 14 12/8
 ##### Topic: Ethicacy and final presentations
 #### Sync
 * Ethicacy
