@@ -455,7 +455,7 @@ Folder: week09_seating
 - Regulation:
   * https://www.china-briefing.com/news/recommendation-algorithm-regulations-china-cybersecurity-regime/
   * https://1stnews.com/facebook-twitter-recommendation-algorithms-could-be-deactivated-under-new-plans-from-russian-lawmakers/
-- In #ethics-async, share your thoughts on if and how recommendation systems should be regulated and on the fact that the first proposed legislation is coming from China rather than the US or EU.
+- In `#ethics-async`, share your thoughts on if and how recommendation systems should be regulated and on the fact that the first proposed legislation is coming from China rather than the US or EU.
 
 
 
