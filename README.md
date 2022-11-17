@@ -445,8 +445,20 @@ Folder: week09_seating
 ### Week 12 - 11/17
 ##### Topic: Recommendation Systems
 
-#### Async
-* -tk
+#### Async Week 12 - DUE 11/30 9:00pm
+- Have a look at these readings: 
+- General:
+  * https://www.algoexpertise.com/which-algorithms-are-used-in-recommender-systems/
+  * https://blog.hootsuite.com/facebook-algorithm/
+  * https://dl.acm.org/citation.cfm?id=2604991      
+  * https://www.algoexpertise.com/which-algorithms-are-used-in-recommender-systems/
+- Regulation:
+  * https://www.china-briefing.com/news/recommendation-algorithm-regulations-china-cybersecurity-regime/
+  * https://1stnews.com/facebook-twitter-recommendation-algorithms-could-be-deactivated-under-new-plans-from-russian-lawmakers/
+- In #ethics-async, share your thoughts on if and how recommendation systems should be regulated and on the fact that the first proposed legislation is coming from China rather than the US or EU.
+
+
+
 
 ---
 
