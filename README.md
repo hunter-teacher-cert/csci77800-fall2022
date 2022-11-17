@@ -443,7 +443,7 @@ Folder: week09_seating
 ---
 
 ### Week 12 - 11/17
-##### Topic: 
+##### Topic: Recommendation Systems
 
 #### Async
 * -tk
